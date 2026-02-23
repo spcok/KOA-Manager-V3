@@ -1,0 +1,14 @@
+
+{
+  "appId": "com.kentowlacademy.manager",
+  "appName": "KOA Manager",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

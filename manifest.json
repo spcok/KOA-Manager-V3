@@ -1,0 +1,44 @@
+
+{
+  "short_name": "KOA Manager",
+  "name": "Kent Owl Academy Management System",
+  "id": "koa-manager",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Dashboard Overview"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Mobile Access"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "theme_color": "#1e293b",
+  "background_color": "#f1f5f9",
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "management", "utilities"],
+  "scope": ".",
+  "related_applications": [],
+  "prefer_related_applications": false
+}

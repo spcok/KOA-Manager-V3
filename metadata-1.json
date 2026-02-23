@@ -1,0 +1,7 @@
+{
+  "name": "Kent Owl Academy Management System",
+  "description": "Comprehensive management system for Kent Owl Academy tracking animal weights, feeds, and health with AI insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,37 @@
+
+{
+  "name": "kent-owl-academy-management-system",
+  "private": true,
+  "version": "1.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "tsc --noEmit",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@google/genai": "^1.39.0",
+    "lucide-react": "^0.563.0",
+    "recharts": "^2.13.0",
+    "react-markdown": "9",
+    "@supabase/supabase-js": "2.39.3",
+    "docx": "^8.5.0",
+    "file-saver": "^2.0.5",
+    "html2canvas": "^1.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  },
+  "overrides": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
